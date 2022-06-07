@@ -1,5 +1,6 @@
 # Код JavaScript и учебные проекты
 
-### Разное:
+### Разное
+---
 * [Практика](https://github.com/BorisPlaton/js_practise)
  
