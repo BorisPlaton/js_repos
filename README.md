@@ -1,7 +1,8 @@
 # Код JavaScript и учебные проекты
 
-### Django & JS
+### JS & Django
 ---
+* [Тренажер скорости набора текста](https://github.com/BorisPlaton/typing_speed_trainer)
 * [Социальная сеть](https://github.com/BorisPlaton/book_social_network)
 
 ### Разное
