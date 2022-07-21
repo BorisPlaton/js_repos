@@ -3,7 +3,7 @@
 ### JS & Django
 ---
 * [Тренажер скорости набора текста](https://github.com/BorisPlaton/typing_speed_trainer)
-* [Социальная сеть](https://github.com/BorisPlaton/book_social_network)
+* [Социальная сеть (из книги)](https://github.com/BorisPlaton/book_social_network)
 
 ### Разное
 ---
